@@ -6,6 +6,7 @@ Archivos
 package.json 
 
 - Contiene toda la confiduracion del proyecto con todas sus dependencias
+
   DEPENDENCIAS 
   - react 
   - react-dom
