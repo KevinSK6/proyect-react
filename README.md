@@ -20,7 +20,6 @@ package.json
   - webpack-dev-server 
 #
 #
-==========================
 webpack.config.js 
 
 - Es el encargado de transformar nuestro proyecto
