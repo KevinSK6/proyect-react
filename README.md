@@ -5,7 +5,7 @@ Archivos
 -
 package.json 
 
-- Contiene toda la confiduracion del proyecto con todas sus dependencias
+- Contiene toda la configuracion del proyecto con todas sus dependencias
 
   DEPENDENCIAS 
   - react 
